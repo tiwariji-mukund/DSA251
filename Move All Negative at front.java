@@ -1,4 +1,4 @@
-<a href "https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620">Question Link</a>
+// Question Link: https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620
 
 public class Solution {
 
